@@ -1,2 +1,2 @@
-customer_id,total_transactions,total_amount
--- Example: 1,5,4500.00
+customer_id,txn_count,first_txn,last_txn
+4,3,2026-02-07,2026-02-07
