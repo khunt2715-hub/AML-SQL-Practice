@@ -1,2 +1,4 @@
-customer_id,total_transactions,total_amount
--- Example: 1,5,4500.00
+customer_id,current_count,current_total
+1,4,900.00
+4,3,1500.00
+8,4,1050.00
