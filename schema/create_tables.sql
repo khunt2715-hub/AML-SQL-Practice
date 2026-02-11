@@ -1,0 +1,5 @@
+-- SQL to create tables for AML project
+-- Tables to create:
+-- 1. customers: stores customer details (id, name, date of birth, country)
+-- 2. transactions: records all customer transactions (id, customer_id, amount, date, type)
+-- 3. countries: country information (id, name, risk_level)

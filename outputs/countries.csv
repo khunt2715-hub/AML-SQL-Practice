@@ -1,0 +1,3 @@
+country_id,country_name,risk_level
+-- Example: 101,USA,Low
+-- Example: 102,Nigeria,High

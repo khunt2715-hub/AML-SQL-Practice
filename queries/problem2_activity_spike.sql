@@ -1,0 +1,3 @@
+-- Problem 2: Detect sudden spikes in transaction activity
+-- Goal: Find customers whose transaction volume or value has increased significantly
+-- Will compare current period with historical averages

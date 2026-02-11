@@ -1,0 +1,3 @@
+-- Problem 1: Detect structuring activity
+-- Goal: Identify customers making multiple small transactions to avoid reporting thresholds
+-- Will join customers and transactions tables and sum transaction amounts

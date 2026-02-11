@@ -1,0 +1,3 @@
+-- Problem 5: Prepare detailed alert investigation queries
+-- Goal: Combine customer and transaction data for AML alert analysis
+-- Will summarize findings and provide context for each alert

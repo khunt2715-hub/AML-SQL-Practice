@@ -1,0 +1,3 @@
+-- Problem 3: Identify transactions involving high-risk countries
+-- Goal: Flag transactions where origin or destination country is on a watchlist
+-- Will join transactions with countries table

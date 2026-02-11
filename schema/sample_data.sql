@@ -1,0 +1,3 @@
+-- Sample data for AML project tables
+-- Insert example customers, transactions, and countries
+-- These will be used for testing queries
