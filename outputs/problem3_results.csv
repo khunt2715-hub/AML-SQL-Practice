@@ -1,2 +1,11 @@
-customer_id,total_transactions,total_amount
--- Example: 1,5,4500.00
+transaction_id,customer_id,country_name,risk_level,amount
+1005,2,Nigeria,High,5000.00
+1006,2,Nigeria,High,6000.00
+1008,4,Russia,High,400.00
+1009,4,Russia,High,500.00
+1010,4,Russia,High,600.00
+1012,6,Pakistan,High,700.00
+1014,8,Nigeria,High,300.00
+1015,8,Nigeria,High,400.00
+1016,8,Nigeria,High,250.00
+1017,8,Nigeria,High,100.00
